@@ -1,0 +1,14 @@
+﻿ALTER TABLE Trips
+ADD CONSTRAINT FK_Guider_Trip
+FOREIGN KEY (GuiderId) REFERENCES TRavelGuides(Id);
+
+ALTER TABLE Trips
+ADD CONSTRAINT FK_Group_Trip
+FOREIGN KEY (GroupId) REFERENCES TravelersGroup(Id);
+
+ALTER TABLE Trips
+drop CONSTRAINT FK_Guider_Trip;
+
+ALTER TABLE Trips
+ADD CONSTRAINT FK_Guider_Trip
+FOREIGN KEY (GuiderId) REFERENCES TRavelGuides(Id) ;

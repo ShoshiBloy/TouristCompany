@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using BlTour.BlApi;
+using BlTour.BlModels;
+using BlTour.BlServices;
+using DalTour;
+using DalTour.DalApi;
+using DalTour.DalServices;
+using Microsoft.Extensions.DependencyInjection;
+using TouristCompany.DALModels;
+
+namespace BlTour
+{
+    public class BLManager
+    {
+        public ITravelersGroup TravelersGroups { get;}
+        public ITravelGuide TravelGuides { get;}
+
+        public BLManager()
+        {
+            ServiceCollection services = new ServiceCollection();
+            services.AddSingleton<DalManager>();
+            services.AddScoped<IBlTravelGuide, BlTravelGuideRepo>();
+
+            services.AddScoped<IBlTravelersGroup, BlTravelersGroupRepo>();
+
+        }
+
+    }
+}
