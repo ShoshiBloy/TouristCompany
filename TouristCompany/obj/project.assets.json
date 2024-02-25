@@ -1053,6 +1053,32 @@
             "rid": "win"
           }
         }
+      },
+      "BlTour/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DalTour": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlTour.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlTour.dll": {}
+        }
+      },
+      "DalTour/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.14"
+        },
+        "compile": {
+          "bin/placeholder/DalTour.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DalTour.dll": {}
+        }
       }
     }
   },
@@ -2875,10 +2901,21 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "BlTour/1.0.0": {
+      "type": "project",
+      "path": "../BlTour/BlTour.csproj",
+      "msbuildProject": "../BlTour/BlTour.csproj"
+    },
+    "DalTour/1.0.0": {
+      "type": "project",
+      "path": "../DalTour/DalTour.csproj",
+      "msbuildProject": "../DalTour/DalTour.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "BlTour >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.14"
@@ -2886,21 +2923,19 @@
   },
   "packageFolders": {
     "C:\\Users\\בלוי שאשא\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\TouristCompany\\TouristCompany.csproj",
+      "projectUniqueName": "H:\\C#\\TouristCompany\\TouristCompany\\TouristCompany.csproj",
       "projectName": "TouristCompany",
-      "projectPath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\TouristCompany\\TouristCompany.csproj",
+      "projectPath": "H:\\C#\\TouristCompany\\TouristCompany\\TouristCompany.csproj",
       "packagesPath": "C:\\Users\\בלוי שאשא\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\TouristCompany\\obj\\",
+      "outputPath": "H:\\C#\\TouristCompany\\TouristCompany\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\בלוי שאשא\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2912,13 +2947,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "H:\\C#\\TouristCompany\\BlTour\\BlTour.csproj": {
+              "projectPath": "H:\\C#\\TouristCompany\\BlTour\\BlTour.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -2967,7 +3005,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
