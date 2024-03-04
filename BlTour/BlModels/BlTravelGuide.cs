@@ -15,5 +15,12 @@ namespace BlTour.BlModels
         public string LastName { get; set; } = null!;
 
         public string MobileNum { get; set; } = null!;
+        public BlTravelGuide(string id, string firstName, string lastName, string mobileNum)
+        {
+            this.Id = id;
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.MobileNum = mobileNum;
+        }
     }
 }

@@ -16,8 +16,8 @@ namespace BlTour
 {
     public class BLManager
     {
-        public ITravelersGroup TravelersGroups { get;}
-        public ITravelGuide TravelGuides { get;}
+        public IBlTravelersGroup TravelersGroups { get; }
+        public IBlTravelGuide TravelGuides { get; }
 
         public BLManager()
         {
@@ -27,6 +27,11 @@ namespace BlTour
 
             services.AddScoped<IBlTravelersGroup, BlTravelersGroupRepo>();
 
+            ServiceProvider provider = services.BuildServiceProvider();
+
+            TravelersGroups = provider.GetRequiredService<IBlTravelersGroup>();
+            TravelGuides = provider.GetRequiredService<IBlTravelGuide>();
+            //provider.GetRequiredService<IBlTravelGuide>();
         }
 
     }

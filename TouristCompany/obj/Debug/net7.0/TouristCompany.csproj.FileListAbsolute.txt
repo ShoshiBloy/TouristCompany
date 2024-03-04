@@ -71,3 +71,13 @@ C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.
 H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.dll
 H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\refint\TouristCompany.dll
 H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\BlTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\DalTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\BlTour.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\DalTour.pdb

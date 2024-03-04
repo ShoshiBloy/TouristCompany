@@ -12,11 +12,3 @@ C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\refin
 C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.pdb
 C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.genruntimeconfig.cache
 C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\ref\DalTour.dll
-C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\TouristCompany.deps.json
-C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\TouristCompany.runtimeconfig.json
-C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\appsettings.json
-C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\TouristCompany.exe
-C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\TouristCompany.dll
-C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\TouristCompany.pdb
-C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.csproj.CopyComplete
