@@ -1,0 +1,238 @@
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\appsettings.json
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.exe
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.deps.json
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.runtimeconfig.json
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.csproj.AssemblyReference.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.AssemblyInfoInputs.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.AssemblyInfo.cs
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.csproj.CoreCompileInputs.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.TouristCompany.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.build.TouristCompany.props
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TouristCompany.props
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TouristCompany.props
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\scopedcss\bundle\TouristCompany.styles.css
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.csproj.CopyComplete
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\refint\TouristCompany.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.genruntimeconfig.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\ref\TouristCompany.dll
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.dll
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\refint\TouristCompany.dll
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.pdb
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.csproj.AssemblyReference.cache
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.GeneratedMSBuildEditorConfig.editorconfig
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.AssemblyInfoInputs.cache
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.AssemblyInfo.cs
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.csproj.CoreCompileInputs.cache
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.MvcApplicationPartsAssemblyInfo.cache
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.dll
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\refint\TouristCompany.dll
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.pdb
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\appsettings.Development.json
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\appsettings.json
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.exe
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.deps.json
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.runtimeconfig.json
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.pdb
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Azure.Core.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Azure.Identity.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Humanizer.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\System.CodeDom.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Memory.Data.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\BlTour.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\DalTour.dll
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\BlTour.pdb
+H:\TouristCompany\TouristCompany\bin\Debug\net7.0\DalTour.pdb
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.TouristCompany.Microsoft.AspNetCore.StaticWebAssets.props
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.build.TouristCompany.props
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TouristCompany.props
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TouristCompany.props
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets.pack.json
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets.build.json
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets.development.json
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\scopedcss\bundle\TouristCompany.styles.css
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.csproj.CopyComplete
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.genruntimeconfig.cache
+H:\TouristCompany\TouristCompany\obj\Debug\net7.0\ref\TouristCompany.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\BlTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\DalTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\BlTour.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\DalTour.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Humanizer.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\appsettings.Development.json
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\appsettings.json
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.exe
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.deps.json
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.runtimeconfig.json
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.pdb
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\AutoMapper.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Azure.Core.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Azure.Identity.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Humanizer.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\System.CodeDom.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Memory.Data.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\BlTour.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\DalTour.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\BlTour.pdb
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\DalTour.pdb
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.csproj.AssemblyReference.cache
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.AssemblyInfoInputs.cache
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.AssemblyInfo.cs
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.csproj.CoreCompileInputs.cache
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.MvcApplicationPartsAssemblyInfo.cs
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.MvcApplicationPartsAssemblyInfo.cache
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.TouristCompany.Microsoft.AspNetCore.StaticWebAssets.props
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.build.TouristCompany.props
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TouristCompany.props
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TouristCompany.props
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets.pack.json
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets.build.json
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\staticwebassets.development.json
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\scopedcss\bundle\TouristCompany.styles.css
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.csproj.CopyComplete
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.genruntimeconfig.cache
+H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\ref\TouristCompany.dll
