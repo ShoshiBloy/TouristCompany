@@ -9,11 +9,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlTour.AutoMapper
-{
-    internal class AutoMapperProfile : Profile
+namespace BlTour.AutoMapper;
+ internal class AutoMapperProfile : Profile
     {
-        
+        public string GetFirstName(string source)=> source.Split(' ')[0];
+        public string GetLastName(string source) => source.Split(' ')[1];
         public AutoMapperProfile()
         {
 
@@ -21,9 +21,9 @@ namespace BlTour.AutoMapper
             CreateMap<TravelGuide,BlTravelGuide>().ReverseMap();
            
             CreateMap<TravelersGroup, BlTravelersGroup>()
-                .ForMember(dest => dest.GuiderName, source => source.MapFrom(src => src.Guider.FirstName+" "+ src.Guider.LastName));
+                .ForMember(dest => dest.GuiderName, source => source.MapFrom(src => $"{src.Guider.FirstName} {src.Guider.LastName}"));
             CreateMap<BlTravelersGroup, TravelersGroup>()
-                .ForMember(dest => dest.Guider.FirstName, src => src.MapFrom(source=> source.GuiderName.Split(" ")[0]));
+                .ForPath(dest => dest.Guider.FirstName, src => src.MapFrom(source=> GetFirstName(source.GuiderName)))
+            .ForPath(dest => dest.Guider.LastName, src => src.MapFrom(source => GetLastName(source.GuiderName)));
         }
     }
-}

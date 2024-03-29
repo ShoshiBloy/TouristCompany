@@ -3856,23 +3856,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\פרידמן חנה\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\בלוי שאשא\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\TouristCompany\\TouristCompany\\TouristCompany.csproj",
+      "projectUniqueName": "H:\\C#\\TouristCompany\\TouristCompany\\TouristCompany.csproj",
       "projectName": "TouristCompany",
-      "projectPath": "S:\\TouristCompany\\TouristCompany\\TouristCompany.csproj",
-      "packagesPath": "C:\\Users\\פרידמן חנה\\.nuget\\packages\\",
-      "outputPath": "S:\\TouristCompany\\TouristCompany\\obj\\",
+      "projectPath": "H:\\C#\\TouristCompany\\TouristCompany\\TouristCompany.csproj",
+      "packagesPath": "C:\\Users\\בלוי שאשא\\.nuget\\packages\\",
+      "outputPath": "H:\\C#\\TouristCompany\\TouristCompany\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\פרידמן חנה\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\בלוי שאשא\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3881,15 +3883,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "S:\\TouristCompany\\BlTour\\BlTour.csproj": {
-              "projectPath": "S:\\TouristCompany\\BlTour\\BlTour.csproj"
+            "H:\\C#\\TouristCompany\\BlTour\\BlTour.csproj": {
+              "projectPath": "H:\\C#\\TouristCompany\\BlTour\\BlTour.csproj"
             }
           }
         }
@@ -3938,7 +3940,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
