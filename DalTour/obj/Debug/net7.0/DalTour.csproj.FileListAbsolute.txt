@@ -1,0 +1,42 @@
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.deps.json
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.runtimeconfig.json
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.csproj.AssemblyReference.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.AssemblyInfoInputs.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.AssemblyInfo.cs
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.csproj.CoreCompileInputs.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\refint\DalTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.genruntimeconfig.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\DalTour\obj\Debug\net7.0\ref\DalTour.dll
+H:\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.deps.json
+H:\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.runtimeconfig.json
+H:\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.dll
+H:\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.pdb
+H:\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.csproj.AssemblyReference.cache
+H:\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.GeneratedMSBuildEditorConfig.editorconfig
+H:\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.AssemblyInfoInputs.cache
+H:\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.AssemblyInfo.cs
+H:\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.csproj.CoreCompileInputs.cache
+H:\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.dll
+H:\TouristCompany\DalTour\obj\Debug\net7.0\refint\DalTour.dll
+H:\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.pdb
+H:\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.genruntimeconfig.cache
+H:\TouristCompany\DalTour\obj\Debug\net7.0\ref\DalTour.dll
+H:\C#\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.deps.json
+H:\C#\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.runtimeconfig.json
+H:\C#\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.dll
+H:\C#\TouristCompany\DalTour\bin\Debug\net7.0\DalTour.pdb
+H:\C#\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.csproj.AssemblyReference.cache
+H:\C#\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.AssemblyInfoInputs.cache
+H:\C#\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.AssemblyInfo.cs
+H:\C#\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.csproj.CoreCompileInputs.cache
+H:\C#\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.dll
+H:\C#\TouristCompany\DalTour\obj\Debug\net7.0\refint\DalTour.dll
+H:\C#\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.pdb
+H:\C#\TouristCompany\DalTour\obj\Debug\net7.0\DalTour.genruntimeconfig.cache
+H:\C#\TouristCompany\DalTour\obj\Debug\net7.0\ref\DalTour.dll

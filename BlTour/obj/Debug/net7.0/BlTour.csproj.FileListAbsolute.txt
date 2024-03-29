@@ -1,0 +1,45 @@
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\bin\Debug\net7.0\BlTour.deps.json
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\bin\Debug\net7.0\BlTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\bin\Debug\net7.0\BlTour.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.csproj.AssemblyReference.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.AssemblyInfoInputs.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.AssemblyInfo.cs
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.csproj.CoreCompileInputs.cache
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\obj\Debug\net7.0\refint\BlTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\obj\Debug\net7.0\ref\BlTour.dll
+H:\TouristCompany\BlTour\bin\Debug\net7.0\BlTour.deps.json
+H:\TouristCompany\BlTour\bin\Debug\net7.0\BlTour.dll
+H:\TouristCompany\BlTour\bin\Debug\net7.0\BlTour.pdb
+H:\TouristCompany\BlTour\bin\Debug\net7.0\DalTour.dll
+H:\TouristCompany\BlTour\bin\Debug\net7.0\DalTour.pdb
+H:\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.csproj.AssemblyReference.cache
+H:\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.GeneratedMSBuildEditorConfig.editorconfig
+H:\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.AssemblyInfoInputs.cache
+H:\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.AssemblyInfo.cs
+H:\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.csproj.CoreCompileInputs.cache
+H:\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.csproj.CopyComplete
+H:\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.dll
+H:\TouristCompany\BlTour\obj\Debug\net7.0\refint\BlTour.dll
+H:\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.pdb
+H:\TouristCompany\BlTour\obj\Debug\net7.0\ref\BlTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\bin\Debug\net7.0\DalTour.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\bin\Debug\net7.0\DalTour.pdb
+C:\Users\בלוי שאשא\Desktop\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.csproj.CopyComplete
+H:\C#\TouristCompany\BlTour\bin\Debug\net7.0\BlTour.deps.json
+H:\C#\TouristCompany\BlTour\bin\Debug\net7.0\BlTour.dll
+H:\C#\TouristCompany\BlTour\bin\Debug\net7.0\BlTour.pdb
+H:\C#\TouristCompany\BlTour\bin\Debug\net7.0\DalTour.dll
+H:\C#\TouristCompany\BlTour\bin\Debug\net7.0\DalTour.pdb
+H:\C#\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.csproj.AssemblyReference.cache
+H:\C#\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.AssemblyInfoInputs.cache
+H:\C#\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.AssemblyInfo.cs
+H:\C#\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.csproj.CoreCompileInputs.cache
+H:\C#\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.csproj.CopyComplete
+H:\C#\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.dll
+H:\C#\TouristCompany\BlTour\obj\Debug\net7.0\refint\BlTour.dll
+H:\C#\TouristCompany\BlTour\obj\Debug\net7.0\BlTour.pdb
+H:\C#\TouristCompany\BlTour\obj\Debug\net7.0\ref\BlTour.dll
