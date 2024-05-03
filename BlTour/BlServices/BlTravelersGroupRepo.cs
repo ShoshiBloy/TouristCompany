@@ -30,6 +30,7 @@ namespace BlTour.BlServices
             //instance.MaxAge = item.MaxAge;
             //instance.NumberOfMembers = item.NumberOfMembers;
             //instance.Destination= item.Destination;
+            
             travelersGroupInstance.Add(instance);
             return item;
         }

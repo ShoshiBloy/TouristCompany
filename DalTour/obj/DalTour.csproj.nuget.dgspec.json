@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\C#\\TouristCompany\\DalTour\\DalTour.csproj": {}
+    "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\DalTour.csproj": {}
   },
   "projects": {
-    "H:\\C#\\TouristCompany\\DalTour\\DalTour.csproj": {
+    "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\DalTour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\C#\\TouristCompany\\DalTour\\DalTour.csproj",
+        "projectUniqueName": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\DalTour.csproj",
         "projectName": "DalTour",
-        "projectPath": "H:\\C#\\TouristCompany\\DalTour\\DalTour.csproj",
+        "projectPath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\DalTour.csproj",
         "packagesPath": "C:\\Users\\בלוי שאשא\\.nuget\\packages\\",
-        "outputPath": "H:\\C#\\TouristCompany\\DalTour\\obj\\",
+        "outputPath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

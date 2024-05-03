@@ -156,7 +156,6 @@ C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.
 C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\AutoMapper.dll
-C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\appsettings.Development.json
 H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\appsettings.json
 H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.exe
@@ -165,7 +164,6 @@ H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.runtimeconfi
 H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.dll
 H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\TouristCompany.pdb
 H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\AutoMapper.dll
-H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Azure.Core.dll
 H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Azure.Identity.dll
 H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\Humanizer.dll
@@ -236,3 +234,5 @@ H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\scopedcss\bundle\TouristCom
 H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.csproj.CopyComplete
 H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\TouristCompany.genruntimeconfig.cache
 H:\C#\TouristCompany\TouristCompany\obj\Debug\net7.0\ref\TouristCompany.dll
+H:\C#\TouristCompany\TouristCompany\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\בלוי שאשא\Desktop\TouristCompany\TouristCompany\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
