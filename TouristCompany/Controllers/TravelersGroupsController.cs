@@ -36,6 +36,7 @@ namespace TouristCompany.Controllers
         [HttpPost]
         public ActionResult<BlTravelersGroup> Add(BlTravelersGroup item)
         {
+
             if (travelersGroup.Add(item) == null)
             {
                 return BadRequest();

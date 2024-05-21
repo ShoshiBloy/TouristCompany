@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eNjnHHFpJql7vRZrvtXnRqoexkfKr0Zp2Yy+btBv++MWJvzwxlvuoaj3kWVqqvxogMKFIl4/q6VsDeWYhpCexw==",
+  "dgSpecHash": "hhJnjV6DG44+R5V47KDcRzKFiJj1LvmXjqonWOKPhprx3tTPwDxnLoGihX7JdPgSNO1OIo3iQOctvmFff0Yjpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\BlTour\\BlTour.csproj",
+  "projectFilePath": "H:\\C#\\TouristCompany\\BlTour\\BlTour.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\בלוי שאשא\\.nuget\\packages\\automapper\\13.0.0\\automapper.13.0.0.nupkg.sha512",
     "C:\\Users\\בלוי שאשא\\.nuget\\packages\\automapper.extensions.expressionmapping\\7.0.0\\automapper.extensions.expressionmapping.7.0.0.nupkg.sha512",

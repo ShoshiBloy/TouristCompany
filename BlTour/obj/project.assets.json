@@ -2703,11 +2703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\BlTour\\BlTour.csproj",
+      "projectUniqueName": "H:\\C#\\TouristCompany\\BlTour\\BlTour.csproj",
       "projectName": "BlTour",
-      "projectPath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\BlTour\\BlTour.csproj",
+      "projectPath": "H:\\C#\\TouristCompany\\BlTour\\BlTour.csproj",
       "packagesPath": "C:\\Users\\בלוי שאשא\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\BlTour\\obj\\",
+      "outputPath": "H:\\C#\\TouristCompany\\BlTour\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2729,8 +2729,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\DalTour.csproj": {
-              "projectPath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\DalTour.csproj"
+            "H:\\C#\\TouristCompany\\DalTour\\DalTour.csproj": {
+              "projectPath": "H:\\C#\\TouristCompany\\DalTour\\DalTour.csproj"
             }
           }
         }

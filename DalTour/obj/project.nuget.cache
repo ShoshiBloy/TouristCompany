@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6/YHnHe2U5k2R2GxEVNAiGIEVltD3uXW1/11QvC9UEmUQDS5dHJncwVwWBXVvNDI9ttAFXNBSWZDbNkAgqxWLg==",
+  "dgSpecHash": "BxBitp+/i3hYfeAT1LxDJXwCHHF9+Od8AWxGlmtA1riGRg/ZhTihxImBeribM+eScZ3n4hoTcNE68xR17JUp1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\DalTour.csproj",
+  "projectFilePath": "H:\\C#\\TouristCompany\\DalTour\\DalTour.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\בלוי שאשא\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\בלוי שאשא\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

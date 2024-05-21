@@ -2888,11 +2888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\DalTour.csproj",
+      "projectUniqueName": "H:\\C#\\TouristCompany\\DalTour\\DalTour.csproj",
       "projectName": "DalTour",
-      "projectPath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\DalTour.csproj",
+      "projectPath": "H:\\C#\\TouristCompany\\DalTour\\DalTour.csproj",
       "packagesPath": "C:\\Users\\בלוי שאשא\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\DalTour\\obj\\",
+      "outputPath": "H:\\C#\\TouristCompany\\DalTour\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

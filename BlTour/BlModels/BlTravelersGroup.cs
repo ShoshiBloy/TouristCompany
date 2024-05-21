@@ -19,7 +19,9 @@ namespace BlTour.BlModels
         public int NumberOfMembers { get; set; }
 
         public string Destination { get; set; } = null!;
+        public int GuiderId { get; set; }
         public string GuiderName { get; set; }
+        
 
         //public BlTravelersGroup(int id, int minAge, int maxAge, int numberOfMembers, string destination, int guiderId)
         //{

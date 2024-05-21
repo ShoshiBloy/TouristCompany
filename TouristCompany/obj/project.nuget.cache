@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C3Lr4Q6FBDiNVfa2q/EBByA3oFv0n4VkIMkgr9+x6Zt5lvN7Fc6r+nhDv29JCrt7tOGYDEV8VNEbXA1mdF/06A==",
+  "dgSpecHash": "2CqFpV68ES29KWgk/e0yi8fHQUAwuPiDzLCXK3UDgdQTj/ZLU8WAOzfCvgJEG2yCb6kTeb1W8/qZ8AQLfntpvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\בלוי שאשא\\Desktop\\TouristCompany\\TouristCompany\\TouristCompany.csproj",
+  "projectFilePath": "H:\\C#\\TouristCompany\\TouristCompany\\TouristCompany.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\בלוי שאשא\\.nuget\\packages\\automapper\\13.0.0\\automapper.13.0.0.nupkg.sha512",
     "C:\\Users\\בלוי שאשא\\.nuget\\packages\\automapper.extensions.expressionmapping\\7.0.0\\automapper.extensions.expressionmapping.7.0.0.nupkg.sha512",
